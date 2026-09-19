@@ -31,7 +31,8 @@ To implement a Zener Voltage regulator and to obtain the output for variable loa
 
 <img width="1080" height="1486" alt="image" src="https://github.com/user-attachments/assets/ac7251b7-43b2-4305-9ed0-f08b41995ba7" />
 
-<img width="1600" height="445" alt="image" src="https://github.com/user-attachments/assets/a0d3affd-b6a3-466d-a559-c508ece5318a" />
+<img width="1080" height="1486" alt="image" src="https://github.com/user-attachments/assets/b4b9c204-ad7e-40c8-b6bc-934229560ef1" />
+
 
 37.	## RESULT:
 <img width="1600" height="445" alt="image" src="https://github.com/user-attachments/assets/26139399-3caa-490f-a539-f89b3f3cb662" />
